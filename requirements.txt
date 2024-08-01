@@ -1,0 +1,6 @@
+surya-ocr
+PyPDF2
+openpyxl
+Pillow
+poppler-utils
+pdf2image
