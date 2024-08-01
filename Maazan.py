@@ -1,3 +1,6 @@
+from Documents.Page import Page
+from Documents.Document import Document
+
 class MaazanPage(Page):
     def __init__(self, num, img, data):
         super().__init__(num, img, data)
