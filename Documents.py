@@ -1,3 +1,9 @@
+from Documents.Img_Specs import Image_Specifications
+from Documents.Page import Page
+from Documents.Maazan import Maazan, MaazanPage
+from Documents.Document import Document
+import pandas as pd
+
 class Documents:
     def __init__(self, dir_path, ocr, image_specifications=Image_Specifications(), test=None):
         self.dir_path = dir_path
