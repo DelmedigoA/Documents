@@ -1,3 +1,4 @@
+import os
 from Documents.Img_Specs import Image_Specifications
 from Documents.Page import Page
 from Documents.Maazan import Maazan, MaazanPage
