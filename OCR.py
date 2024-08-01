@@ -21,6 +21,3 @@ class OCR:
         int(1000 * (bbox[2] / width)),
         int(1000 * (bbox[3] / height)),
     ]
-
-model = OCR()
-model.load()
